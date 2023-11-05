@@ -1,4 +1,7 @@
-# Study Forum - Django Project README
+# Study Forum - Django Project
+
+#### Video Demo:  <URL HERE>
+#### Description:
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
